@@ -4,4 +4,4 @@ In My experience using CLI to render blender files reduces the time and also the
 This as an already made batch file script prompting you about file location and asking you everything needed to render your file
 Without you knowing any  blender command line commands or coding anything.
 !Make sure you Add the main blender folder to your system varibles!
-Just download the b
+Just download the run
